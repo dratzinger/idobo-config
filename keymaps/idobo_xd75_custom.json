@@ -111,7 +111,6 @@
       "KC_TRNS",
       "KC_TRNS",
       "KC_TRNS",
-      "KC_GRV",
       "KC_TRNS",
       "KC_TRNS",
       "KC_TRNS",
@@ -158,7 +157,8 @@
       "KC_TRNS",
       "KC_TRNS",
       "KC_TRNS",
-      "KC_TRNS"
+      "KC_TRNS",
+      "RESET"
     ],
     [
       "KC_F1",
@@ -235,7 +235,7 @@
       "KC_TRNS",
       "KC_TRNS",
       "KC_TRNS",
-      "RESET"
+      "KC_NO"
     ]
   ],
   "author": "DR"
